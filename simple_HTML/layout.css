@@ -1,0 +1,34 @@
+
+#first{
+    color: red;
+    background-color: chartreuse;
+}
+
+#second {
+    color: orange;
+}
+
+#third {
+    color: yellow;
+}
+
+#fourth {
+    color: green;
+}
+
+#fifth{
+    color: blue;
+}
+
+#sixth {
+    color: #11264f;
+}
+
+#seventh{
+    color: purple;
+}
+
+table > td{
+    background-color: aqua;
+    border: solid;
+}
