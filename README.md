@@ -9,9 +9,9 @@ Teams
 
 >[songyuchan](https://github.com/songyuchan)
 
->DongJoon-Lee(https://github.com/DongJoon-Lee)
+>[DongJoon-Lee](https://github.com/DongJoon-Lee)
 
->subin777(https://github.com/sbin2357)
+>[subin777](https://github.com/sbin2357)
 
 -------------------------
 
