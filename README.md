@@ -17,7 +17,7 @@ Teams
 
 What
 -----
-* We are going to make pamphlet, webpage to introduce "OpenSource"
+* We are going to make pamphlet, webpage to introduce "OpenSource".
 
 -------------------------
 
