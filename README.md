@@ -3,15 +3,15 @@
 
 Teams
 ---------
->Kim-Seo-Gwon
+>[Kim-Seo-Gwon](https://github.com/KSG072)
 
->Bae Hye Min
+>[Bae Hye Min](https://github.com/BaeHyeMin)
 
->songyuchan
+>[songyuchan](https://github.com/songyuchan)
 
->DongJoon-Lee
+>DongJoon-Lee(https://github.com/DongJoon-Lee)
 
->subin777
+>subin777(https://github.com/sbin2357)
 
 -------------------------
 
