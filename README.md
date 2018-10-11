@@ -1,19 +1,29 @@
 404 HTTP_OpneSource_TeamProject.
 ================================
 
-###Teams
+Teams
+---------
 >Kim-Seo-Gwon
+
 >Bae Hye Min
+
 >songyuchan
+
 >DongJoon-Lee
+
 >subin777
 
 -------------------------
 
-###What
+What
+-----
 * We are going to make pamphlet, webpage to introduce "OpenSource"
 
 -------------------------
 
-###How
-* We will use GitKraken and Gitbook.
+How
+------
+* We will use GitKraken, Gitbook and CodeonWeb.
+* link 
+  - [Gitbook](https://opensource-404project.gitbook.io/opensource-404/)
+  - [CodeonWeb](https://erica.codeonweb.com/circle/@404-error)
