@@ -1,2 +1,4 @@
 https://wiki.kldp.org/HOWTO/html/Secure-Programs-HOWTO/history.html
-https://en.wikipedia.org/wiki/History_of_free_and_open-source_software
+
+https://m.blog.naver.com/PostView.nhn?blogId=skinfosec2000&logNo=220684124671&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
+이거 정리해서 썼는데 퍼블리시를 해야 저장되는거였나봐.. 날아감 ㅠ
